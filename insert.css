@@ -1,0 +1,23 @@
+*{
+    background-color: cadetblue;
+}
+#employe{
+    color:white;
+    text-align: center;
+    padding: 15px;
+    border:1px solid black;
+    margin-left: 350px;
+    margin-right: 300px;
+    border-radius: 18px;
+}
+#data{
+    margin-top: 15px;
+}
+#head{
+    text-align: center;
+    color: white;
+}
+#sub{
+    color: black;
+    background-color: aliceblue;
+}
